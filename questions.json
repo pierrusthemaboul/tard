@@ -1,0 +1,37 @@
+[  
+{    "question": "Quelle est la couleur du ciel ?",    "answer": "Bleu",    "value": 1  }, 
+{    "question": "Quel est le contraire d'un nuage ?",    "answer": "prout",    "value": 1  },
+{    "question": "A quoi peut-on comparer les dinosaures ? ",    "answer": "À Sagi",    "value": 1  },
+{    "question": "En quoi est fait un arbre ?",    "answer": "en bois",    "value": 1  }, 
+{    "question": "En quoi est fait du bois",    "answer": "en arbre",    "value": 1  },
+{    "question": "Qui a découvert la lune ?",    "answer": "Colombo",    "value": 1  },
+{    "question": "Quelle est la capitale ?",    "answer": "000",    "value": 1  }, 
+{    "question": "8-8 =?",    "answer": "prout",    "value": 1  },
+{    "question": "Qui ? ",    "answer": "quoi",    "value": 1  },
+{    "question": "En combien de temps peut-on compter ? ",    "answer": "10 minutes",    "value": 1  },
+
+
+{    "question": "Qui mange du lapin ? ",    "answer": "les belges",    "value": 2  },
+{    "question": "Si il est moins le quart à Paris, quelle heure est-il à Bali ?",    "answer": "du café",    "value": 2  },
+{    "question": "Qu'est-ce qu'un poisson ? ",    "answer": "Ca dépend",    "value": 2  },
+{    "question": "Combien peut-on porter de fourmis sans se fatiguer ?",    "answer": "1 kilo",    "value": 2  },
+{    "question": "Comment se repère-ton avec les étoiles ? ",    "answer": "en regardant",    "value": 2  },
+{    "question": "Si la mer méditérannée était une célébrité, qui serait-elle ?",    "answer": "Raymond Barre",    "value": 2  },
+{    "question": "Qui a écrit ? ",    "answer": " Hugo",    "value": 2  },
+{    "question": "Combien y-a-til de lettre en tout ?",    "answer": "beaucoup",    "value": 2  },
+{    "question": "Qu'est-ce qui va plus vite q'un renard ?",    "answer": "une voiture",    "value": 2  },
+{    "question": "Qu'est-ce qu'on touve sur tous les continents ?",    "answer": "des tucs",    "value": 2  },
+
+
+{    "question": "Un homme historique célèbre ?",    "answer": "Tony Vairelles",    "value": 3  },
+{    "question": "Si un vélo pars de Paris et qu'il roule en moyenne à 25 km/h, à quelle heure arrive-t-il à Marseille ?  ",    "answer": "à 17h",    "value": 3  },
+{    "question": "De qui Micheal Villard est-il la réincarnation ? ",    "answer": "de lui-même",    "value": 3  },
+{    "question": "Quel est la planète la plus loin du soleil ? ",    "answer": "prrr",    "value": 3  },
+{    "question": "Est-ce qu'n artichauts c'est bon ?  ",    "answer": "Oui",    "value": 3  },
+{    "question": "Comment dit-on bonjour en swaili ?",    "answer": "en parlant",    "value": 3  },
+{    "question": "C'est qui le plus fort entre un Ninja et Arianne du club Dorothée? ",    "answer": "Arianne",    "value": 3  },
+{    "question": "Si je pêche un merlan, dans quelle mer suis-je ? ",    "answer": "la Loire",    "value": 3  },
+{    "question": "Combien y-a-t-il de combinaison ? ",    "answer": "1",    "value": 3  },
+{    "question": "Qui chante ? ",    "answer": "Johny",    "value": 3  }
+]
+

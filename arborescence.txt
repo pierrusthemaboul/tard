@@ -1,0 +1,11 @@
+ Le volume dans le lecteur C s'appelle Windows
+ Le num‚ro de s‚rie du volume est A871-F2F3
+
+ R‚pertoire de C:\samedi\tard\screens
+
+19/02/2023  18:46               608 NinePointsScreen.js
+               1 fichier(s)              608 octets
+
+     Total des fichiers list‚sÿ:
+               1 fichier(s)              608 octets
+               0 R‚p(s)  24ÿ248ÿ926ÿ208 octets libres
